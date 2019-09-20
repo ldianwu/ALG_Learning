@@ -1,4 +1,4 @@
-package com.lidianwu.alglearning;
+package com.lidianwu.alglearing.leetcode;
 
 import java.util.HashMap;
 import java.util.Map;

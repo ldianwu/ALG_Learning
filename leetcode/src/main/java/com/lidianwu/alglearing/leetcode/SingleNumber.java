@@ -1,4 +1,4 @@
-package com.lidianwu.alglearning;
+package com.lidianwu.alglearing.leetcode;
 
 /**
  * 只出现一次的数字

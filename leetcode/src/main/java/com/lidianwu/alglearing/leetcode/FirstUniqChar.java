@@ -1,4 +1,4 @@
-package com.lidianwu.alglearning;
+package com.lidianwu.alglearing.leetcode;
 
 /**
  * 字符串中的第一个唯一字符
