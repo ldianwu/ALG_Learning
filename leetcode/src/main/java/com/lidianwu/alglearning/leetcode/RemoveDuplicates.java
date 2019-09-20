@@ -1,4 +1,4 @@
-package com.lidianwu.alglearing.leetcode;
+package com.lidianwu.alglearning.leetcode;
 
 /**
  * 删除排序数组中的重复项
